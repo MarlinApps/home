@@ -86,11 +86,11 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#ffffff"
 feature_text_color                        : "#ffffff"
 
-feature_icons_foreground_color            : "#C884C5"
-feature_icons_background_color            : "#FFEAFE"
+feature_icons_foreground_color            : "#8088F6"
+feature_icons_background_color            : "#ffffff"
 
 social_icons_foreground_color             : "#8088F6"
-social_icons_background_color             : "#E7EBFE"
+social_icons_background_color             : "#ffffff"
 
 footer_text_color                         : "#ffffff"
 
