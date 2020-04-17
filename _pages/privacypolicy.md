@@ -125,9 +125,9 @@ Otherwise, if you wish to exercise any of these rights, you may contact us using
 ## 7. Children’s privacy
 Unless otherwise specified, our websites, products and/or services are not directed at minors (as defined by and in accordance with applicable law). You may add the protection of certain of our Services to minors in your household, but we only process that personal data at your direction and in order to provide those specified Services.
 
-Our Service does not address anyone under the age of 18 ("Children").
+Our Service does not address anyone under the age of 13 ("Children").
 
-We do not log information from anyone under the age of 18 intentionally as the Service is not direct to anyone under the age of 18. DO NOT USE the Service if you are not of legal age. If we have found any personal data of a child under 18, we will delete it. If you believe we might have any information like that, please 
+We do not log information from anyone under the age of 13 intentionally as the Service is not direct to anyone under the age of 13. DO NOT USE the Service if you are not of legal age. If we have found any personal data of a child under 13, we will delete it. If you believe we might have any information like that, please 
 email us at:
 
 <p class="p6"><span class="s5">Email address: <a href="mailto:liambeldenuk@gmail.com"><span class="s6">liambeldenuk@gmail.com</span></a></span></p>
