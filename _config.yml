@@ -1,5 +1,5 @@
 #page title
-page_title                                : MarlinVPN                                  # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : FastVPN                                  # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -10,9 +10,9 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : MarlinVPN                                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : FastVPN                                  # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Marlin Fast VPN is a super fast VPN providing totally free unlimited VPN proxy service. Without register, just need one tap to connect to the fastest server. You can surfing online securely and anonymously. Being a gaming VPN, Marlin Fast VPN is your best choice to play mobile games around the world and chat with your friends freely from other countries.
+app_description                           : Fast VPN is a super fast VPN providing totally free unlimited VPN proxy service. Without register, just need one tap to connect to the fastest server. You can surfing online securely and anonymously. Being a gaming VPN, Fast VPN is your best choice to play mobile games around the world and chat with your friends freely from other countries.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
