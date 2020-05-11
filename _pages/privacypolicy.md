@@ -8,12 +8,12 @@ include_in_header: true
 April 10, 2020
 
 # Privacy Policy
-This Privacy Policy describes how we process and handle data provided to Marlin VPN in connection with your use of our products, services, apps, and websites that link to this policy (we refer to these collectively as our “services”). Information security and privacy are at the heart of our values and promotes as a company. As such, we think it’s important to be transparent about how we handle your information. That level of transparency also makes for a lengthy document, but we’ve tried to make it more readable by organizing it into a logical structure and by using plain language.
+This Privacy Policy describes how we process and handle data provided to Fast VPN in connection with your use of our products, services, apps, and websites that link to this policy (we refer to these collectively as our “services”). Information security and privacy are at the heart of our values and promotes as a company. As such, we think it’s important to be transparent about how we handle your information. That level of transparency also makes for a lengthy document, but we’ve tried to make it more readable by organizing it into a logical structure and by using plain language.
 
-### Key Privacy Points of Marlin VPN
+### Key Privacy Points of Fast VPN
 * Anonymity. When you use a VPN connection, we do not store any information that identifies what you browse, view, or do online via that VPN connection. This also means that we do not have any data to share with law enforcement and government agencies who make requests for information about what you were doing through a VPN connection. The exception is when you choose to communicate with us (such as via chat or email) over a VPN connection and have chosen to identify yourself to us.
-* Encryption. All data you send via the VPN connections we facilitate is encrypted. Marlin VPN does not inspect or log that data.
-* Metadata Logs. Marlin VPN logs metadata about connections, such as session durations and bandwidth used, in order to provide and improve our services. However, we do not log any data sent over those connections.
+* Encryption. All data you send via the VPN connections we facilitate is encrypted. Fast VPN does not inspect or log that data.
+* Metadata Logs. Fast VPN logs metadata about connections, such as session durations and bandwidth used, in order to provide and improve our services. However, we do not log any data sent over those connections.
 
 This policy uses the term “personal data” to refer to information that is related to an identified or identifiable natural person and is protected as personal data under applicable data protection law.
 
@@ -99,7 +99,7 @@ We may allow our business partners to place certain tracking technologies in our
 <br>
 
 ## 5. Data Retention
-Marlin VPN generally retains your personal data for as long as is needed to provide the services to you, or for as long as you have an account with us. We may also retain personal data if required by law, or for our legitimate interests, such as abuse detection and prevention, and defending ourselves from legal claims. Residual copies of personal data may be stored in backup systems for a limited period as a security measure to protect against data loss.
+Fast VPN generally retains your personal data for as long as is needed to provide the services to you, or for as long as you have an account with us. We may also retain personal data if required by law, or for our legitimate interests, such as abuse detection and prevention, and defending ourselves from legal claims. Residual copies of personal data may be stored in backup systems for a limited period as a security measure to protect against data loss.
 
 <br>
 
